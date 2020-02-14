@@ -20,6 +20,7 @@ public class EjemploEDClone {
                 System.out.println("3. Multiplicar");
                 System.out.println("4. Dividir");
                 System.out.println("5. Salir");
+                System.out.println("6. Prueba");
                 option = keyboard.nextInt();
                 switch (option) {
                     case 1:
